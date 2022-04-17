@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Demetris",
+    "photo": "https://robohash.org/veniamquinesciunt.png?size=50x50&set=set1",
+    "review": "consequat metus sapien ut nunc vestibulum",
+    "title": "The best thing money can buy!",
+    "ratings": 1
+  },
+  {
+    "id": 2,
+    "name": "Bonnee",
+    "photo": "https://robohash.org/dolorquiafugiat.png?size=50x50&set=set1",
+    "review": "vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget",
+    "title": "The best thing money can buy!",
+    "ratings": 5
+  },
+  {
+    "id": 3,
+    "name": "Christian",
+    "photo": "https://robohash.org/voluptatemquidolores.png?size=50x50&set=set1",
+    "review": "est et tempus semper est quam pharetra magna",
+    "title": "The best thing money can buy!",
+    "ratings": 3
+  },
+  {
+    "id": 4,
+    "name": "Sisile",
+    "photo": "https://robohash.org/nesciuntconsequaturet.png?size=50x50&set=set1",
+    "review": "sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur",
+    "title": "The best thing money can buy!",
+    "ratings": 3
+  },
+  {
+    "id": 5,
+    "name": "Scotti",
+    "photo": "https://robohash.org/officiisiustoest.png?size=50x50&set=set1",
+    "review": "mauris ullamcorper purus sit amet nulla quisque",
+    "title": "The best thing money can buy!",
+    "ratings": 5
+  },
+  {
+    "id": 6,
+    "name": "Lothaire",
+    "photo": "https://robohash.org/sintvelitnemo.png?size=50x50&set=set1",
+    "review": "a suscipit nulla elit ac nulla sed vel enim sit amet",
+    "title": "The best thing money can buy!",
+    "ratings": 3
+  }
+]
