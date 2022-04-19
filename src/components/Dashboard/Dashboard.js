@@ -51,8 +51,8 @@ const Dashboard = () => {
                     />
                 </LineChart>
 
-                <h2 className={'text-2xl text-amber-800 mb-2 mt-2'}>Investment vs Revenue</h2>
-                <ResponsiveContainer width="100%" height="100%">
+                <div>
+                    <h2 className={'text-2xl text-amber-800 mb-2 mt-2'}>Investment vs Revenue</h2>
                     <BarChart
                         width={500}
                         height={300}
@@ -72,7 +72,7 @@ const Dashboard = () => {
                         <Bar dataKey="investment" stackId="a" fill="#8884d8"/>
                         <Bar dataKey="revenue" stackId="a" fill="#82ca9d"/>
                     </BarChart>
-                </ResponsiveContainer>
+                </div>
             </div>
 
         </div>
