@@ -65,7 +65,7 @@ const Dashboard = () => {
                         }}
                     >
                         <CartesianGrid strokeDasharray="3 3"/>
-                        <XAxis dataKey="monthe"/>
+                        <XAxis dataKey="month"/>
                         <YAxis/>
                         <Tooltip/>
                         <Legend/>
