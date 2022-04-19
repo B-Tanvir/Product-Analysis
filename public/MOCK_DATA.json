@@ -5,7 +5,7 @@
     "photo": "https://robohash.org/veniamquinesciunt.png?size=50x50&set=set1",
     "review": "consequat metus sapien ut nunc vestibulum",
     "title": "The best thing money can buy!",
-    "ratings": 1
+    "ratings": 4.5
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "photo": "https://robohash.org/voluptatemquidolores.png?size=50x50&set=set1",
     "review": "est et tempus semper est quam pharetra magna",
     "title": "The best thing money can buy!",
-    "ratings": 3
+    "ratings": 4
   },
   {
     "id": 4,
@@ -45,6 +45,6 @@
     "photo": "https://robohash.org/sintvelitnemo.png?size=50x50&set=set1",
     "review": "a suscipit nulla elit ac nulla sed vel enim sit amet",
     "title": "The best thing money can buy!",
-    "ratings": 3
+    "ratings": 4
   }
 ]
